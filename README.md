@@ -3,14 +3,13 @@ Information Science and Technology 210 : Group Project
 
 Workload Distribution:
 
-I. Document Cover - xxxxx
-II. Table of Contents - xxxxx
-III. Executive Summary - xxxxx
-IV. Project Overview - xxxxx
-V. Project Management - xxxxx
-VI. User Analysis - xxxxx
-VII. Organization of Data - Angel Wu
-VIII. Database Administration  - xxxxx, Angel Wu
-IX. Database Dashboard and Analytics  - xxxxx, xxxxx
-X. Legal Issues - xxxxx
-XI. List of References - All
+
+I. Executive Summary - xxxxx<br>
+II. Project Overview - xxxxx<br>
+III. Project Management - xxxxx<br>
+IV. User Analysis - xxxxx<br>
+V. Organization of Data - Angel Wu<br>
+VI. Database Administration  - xxxxx, Angel Wu<br>
+VII. Database Dashboard and Analytics  - xxxxx, xxxxx<br>
+VIII. Legal Issues - xxxxx<br>
+IX. List of References - All<br>
